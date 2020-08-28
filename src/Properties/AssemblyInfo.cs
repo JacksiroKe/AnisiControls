@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Controls by Jack Siro")]
+[assembly: AssemblyTitle("Anisi Controls")]
 [assembly: AssemblyDescription("Button, Switch, Feedback, Sliding Label, Circular Progress Bar, Spinning Circles and so much custom controls")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Jack Siro")]
-[assembly: AssemblyProduct("AnisiControls")]
-[assembly: AssemblyCopyright("Copyright © Jacksiro 2018")]
-[assembly: AssemblyTrademark("Jacksiro")]
+[assembly: AssemblyCompany("JacksiroKe")]
+[assembly: AssemblyProduct("JacksiroKe.AnisiCtrls")]
+[assembly: AssemblyCopyright("Copyright © JacksiroKe 2018")]
+[assembly: AssemblyTrademark("JacksiroKe")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.2.5.0")]
-[assembly: AssemblyFileVersion("1.2.5.0")]
+[assembly: AssemblyVersion("1.3.0.1")]
+[assembly: AssemblyFileVersion("1.3.0.1")]

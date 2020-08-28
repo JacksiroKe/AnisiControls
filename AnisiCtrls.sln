@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnisiCtrls", "src\AnisiCtrls.csproj", "{BC91E6CD-29E4-4292-AF0C-2D27A8B93F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC91E6CD-29E4-4292-AF0C-2D27A8B93F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC91E6CD-29E4-4292-AF0C-2D27A8B93F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC91E6CD-29E4-4292-AF0C-2D27A8B93F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC91E6CD-29E4-4292-AF0C-2D27A8B93F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CF37CAC-F023-4E76-9F14-0C11B8651034}
+	EndGlobalSection
+EndGlobal
