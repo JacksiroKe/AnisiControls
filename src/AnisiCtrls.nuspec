@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>AnisiControls</id>
+    <version>1.3.0.1</version>
+    <title>Anisi Controls</title>
+    <authors>JacksiroKe</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/JacksiroKe/AnisiControls</projectUrl>
+    <description>A couple of user controls like a Switch Button, Sliding Labels, Progress Bar, Progress Control, Feedback control instead of that scary message box to modenize your windows forms UI</description>
+    <releaseNotes>Refreshed look of the controls.</releaseNotes>
+    <copyright>JacksiroKe</copyright>
+    <tags>Controls UI Button Switch Progress</tags>
+  </metadata>
+</package>
